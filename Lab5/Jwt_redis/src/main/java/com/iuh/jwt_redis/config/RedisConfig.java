@@ -1,5 +1,4 @@
-package com.javatechie.redis.config;
-
+package com.iuh.jwt_redis.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
